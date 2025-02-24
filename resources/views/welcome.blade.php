@@ -4,14 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Calm Headphone</title>
-    <link rel="stylesheet" href="public/assets/style/style.css">
+    <link rel="stylesheet" href="assets/style/style.css">
 </head>
 
 <body>
     <header>
         <div class="brand-name">
-            <img src="public/assets/img/calm-logo.png" alt="calm logo">
+            <img src="assets/img/calm-logo.png" alt="calm logo">
         </div>
         <nav id="main-nav">
             <ul>
@@ -37,9 +38,8 @@
             <button>Learn More</button>
         </section>
 
-        <img src="assets/calm-hero.png" alt="hero image" class="hero-iamge">
-
-
+        <img src="assets/img/calm-hero.png" alt="hero image" class="hero-iamge">
     </main>
 </body>
+
 </html>
